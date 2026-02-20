@@ -17,7 +17,7 @@ def get_personal_data():
                     <span style="font-weight: bold;">On-going projects:</span>
                     In 2025, I started an <a href=https://team.inria.fr/acer/ target="_blank">associated team</a> with Université de Montréal.
                     In 2023, I have been awarded an ANR JCJC grant for the B-IRD project, on fast and reliable biomechanical methods dedicated to assistive technologies.
-                    Since 2023 I am part of the european EIC Pathfinder AI-HAND project led by INRIA on implanted neuroprosthese for hand movement restoration.
+                    Since 2023 I am part of the european EIC Pathfinder <a href=https://www.aihand.eu/ target="_blank">AI-HAND</a> project led by INRIA on implanted neuroprosthese for hand movement restoration.
                 </p>
                 <p>For any inquiries, feel free to reach out to me via mail!</p>
                 <p>
